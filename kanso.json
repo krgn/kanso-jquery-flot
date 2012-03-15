@@ -1,0 +1,19 @@
+{
+    "name": "jquery-flot",
+    "version": "0.7",
+    "categories": ["utils"],
+    "maintainers": [
+        {
+            "name": "Karsten Gebbert",
+            "url": "https://github.com/krgn"
+        }
+    ],
+    "url": "http://code.google.com/p/flot/",
+    "modules": "jquery.flot.js",
+    "modules_attachment": false,
+    "dependencies": {
+        "modules": ">=0.0.8",
+	"jquery": ">=2.0.0"
+    },
+    "description": "Flot is a pure Javascript plotting library for jQuery. It produces graphical plots of arbitrary datasets on-the-fly client-side."
+}
